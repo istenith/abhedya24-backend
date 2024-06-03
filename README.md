@@ -1,5 +1,6 @@
 # Backend for Abhedya - 2024
-
+Online Cryptic Hunt Platform. Backend handled 100+ requests / min. Dockerised and Deployed on Custom Linux Server. Uses MongoDB for database. Get the API Docs from here
+(https://abhedya24-backend.onrender.com/doc/)
 ## 1. Clone the repo
 ```bash
     git clone https://github.com/istenith/abhedya24-backend.git
